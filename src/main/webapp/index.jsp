@@ -16,7 +16,7 @@ html{
 <center>
 <font  size="10" style=text-align:center;color:green;>AR SOFTWARE SOLUTIONS</font>
 <br><br>
-<marquee><font  size="5" style=color:blue>Hi, Welcome to AR SOFTWARE SOLUTIONS</font></marquee>
+<marquee><font  size="5" style=color:blue>Hi, Welcome to AR SOFTWARE SOLUTIONS - Many software services at one destination</font></marquee>
 
 </center>
 <h4 style=text-align:left><p><a href="menu.jsp"><marquee behavior="scroll" direction="up"><img src="https://th.bing.com/th/id/Ra434b090ba3af440e821bab434b57805?rik=HMD0rm26%2bViR4Q&riu=http%3a%2f%2fwww.finsmes.com%2fwp-content%2fuploads%2f2019%2f04%2fdevops.jpg&ehk=J2EmNxSdho7Gx1ZqlWu6rNrbMIztrR95BtVX4M4RG5Y%3d&risl=&pid=ImgRaw"  width="200" height="200"></marquee></a></p></h4>
